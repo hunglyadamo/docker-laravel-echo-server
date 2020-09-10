@@ -1,7 +1,7 @@
 {
   "apiOriginAllow": {},
-  "authEndpoint": "/broadcasting/auth",
-  "authHost": "http://localhost",
+  "authEndpoint": "LARAVEL_ECHO_SERVER_ENDPOINT",
+  "authHost": "LARAVEL_ECHO_SERVER_AUTH_HOST",
   "clients": [],
   "database": "LARAVEL_ECHO_SERVER_DB",
   "databaseConfig": {
